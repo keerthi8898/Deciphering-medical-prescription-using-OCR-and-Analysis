@@ -1,0 +1,101 @@
+Patient ID,Name,Gender,Doctor Name,Age,Payment Amount,Department,Discharge Summary,Prescription,Instructions,Dosage
+P0088,Shruti,Female,Dr. Sameer,38,4518,Orthopedics,Follow-up required in 2 weeks,Atorvastatin 40mg,Avoid alcohol,2 tablets daily
+P0080,Vidya,Female,Dr. Dev,75,3657,,"Improved, but requires monitoring",Metformin 500mg,Take before bedtime,As prescribed
+P0074,Anand,Male,Dr. Arjun,67,4272,Cardiology,Follow-up required in 2 weeks,Metformin 500mg,Do not skip doses,2 tablets daily
+P0026,Ravi,,Dr. Vivek,68,703,General Medicine,"Recovered well, no complications",Ibuprofen 400mg,,1 capsule before meals
+P0086,Radhika,Female,,24,4941,Dermatology,Needs further tests,Lisinopril 10mg,Take with food,As prescribed
+P0027,Chirag,Male,Dr. Isha,56,1323,Orthopedics,"Improved, but requires monitoring",Metformin 500mg,Drink plenty of water,1 tablet daily
+P0100,Anika,Female,Dr. Vivek,50,2064,General Medicine,Needs further tests,Amoxicillin 500mg,Take before bedtime,1 capsule before meals
+P0068,Samar,Male,Dr. Kavya,55,,Orthopedics,"Stable condition, continue medication",Atorvastatin 40mg,Avoid alcohol,1 tablet every 8 hours
+P0066,Siddharth,Male,Dr. Pranav,72,1963,Dermatology,"Improved, but requires monitoring",Amoxicillin 500mg,Take before bedtime,
+P0049,Payal,,Dr. Dinesh,,4872,Orthopedics,"Recovered well, no complications",Ibuprofen 400mg,,2 tablets daily
+P0076,Pranav,Male,Dr. Falguni,24,1054,Pediatrics,"Stable condition, continue medication",Ibuprofen 400mg,Take with food,1 capsule before meals
+P0035,Leena,Female,Dr. Ojasvi,62,4323,Neurology,Needs further tests,Omeprazole 20mg,Drink plenty of water,1 tablet every 8 hours
+P0095,,Female,Dr. Deepak,69,4427,Dermatology,,Omeprazole 20mg,Take with food,1 capsule before meals
+P0079,Aanya,Female,Dr. Sakshi,70,1963,Cardiology,"Recovered well, no complications",Ibuprofen 400mg,Drink plenty of water,2 tablets daily
+P0047,Kiran,Female,Dr. Sanya,31,3445,Pediatrics,"Recovered well, no complications",Lisinopril 10mg,Do not skip doses,1 tablet every 8 hours
+P0005,Aarav,,Dr. Ravi,74,1904,Psychiatry,"Stable condition, continue medication",Metformin 500mg,Take with food,1 tablet daily
+P0010,Rajat,Male,Dr. Kabir,58,1954,Gastroenterology,Follow-up required in 2 weeks,Atorvastatin 40mg,Take with food,1 capsule before meals
+P0071,Simran,Female,Dr. Ojasvi,65,3512,General Medicine,"Recovered well, no complications",Aspirin 75mg,Drink plenty of water,1 capsule before meals
+P0012,Divya,,Dr. Kavya,19,,Dermatology,Follow-up required in 2 weeks,Aspirin 75mg,,2 tablets daily
+P0030,Nikhil,Male,Dr. Kabir,59,1440,Orthopedics,"Improved, but requires monitoring",Atorvastatin 40mg,Drink plenty of water,1 tablet daily
+P0015,Falguni,Female,Dr. Sneha,60,282,Gastroenterology,"Recovered well, no complications",Lisinopril 10mg,Avoid alcohol,
+P0004,Dev,Male,Dr. Vaishali,72,4251,Psychiatry,"Improved, but requires monitoring",Amoxicillin 500mg,Take with food,1 tablet every 8 hours
+P0021,Poonam,Female,Dr. Abhishek,66,2377,ENT,"Recovered well, no complications",Lisinopril 10mg,Do not skip doses,2 tablets daily
+P0022,Yash,,,34,1435,Oncology,Follow-up required in 2 weeks,Aspirin 75mg,Take before bedtime,1 capsule before meals
+P0029,Aniket,Male,,,4197,Psychiatry,"Improved, but requires monitoring",Omeprazole 20mg,Avoid alcohol,1 capsule before meals
+P0090,,Female,Dr. Anand,24,4941,Pediatrics,,Lisinopril 10mg,Take with food,
+P0077,Hina,Female,Dr. Hemant,21,1935,Neurology,,Metformin 500mg,Do not skip doses,As prescribed
+P0093,Kunal,Male,Dr. Dinesh,34,1264,Orthopedics,"Recovered well, no complications",Amoxicillin 500mg,Take with food,1 capsule before meals
+P0057,Sakshi,Female,Dr. Sakshi,40,3700,General Medicine,Needs further tests,Atorvastatin 40mg,Drink plenty of water,2 tablets daily
+P0043,Yamini,Female,Dr. Kavya,52,740,Dermatology,Follow-up required in 2 weeks,Metformin 500mg,Take before bedtime,2 tablets daily
+P0073,Rajiv,Male,Dr. Arjun,48,3628,Neurology,"Improved, but requires monitoring",Omeprazole 20mg,Do not skip doses,As prescribed
+P0017,Vivaan,Male,Dr. Lata,25,2780,Oncology,Needs further tests,Ibuprofen 400mg,,1 tablet daily
+P0045,Gautam,,Dr. Arjun,68,4427,Orthopedics,"Improved, but requires monitoring",Aspirin 75mg,Drink plenty of water,1 tablet daily
+P0059,Rahul,Male,Dr. Tanvi,48,1873,General Medicine,"Recovered well, no complications",Ibuprofen 400mg,Do not skip doses,
+P0099,Alok,Male,Dr. Isha,,1282,Gastroenterology,"Stable condition, continue medication",Amoxicillin 500mg,Do not skip doses,
+P0032,Ila,,Dr. Ila,52,4364,Psychiatry,Needs further tests,Omeprazole 20mg,Take with food,1 capsule before meals
+P0016,Amit,Male,Dr. Tarun,18,703,Gastroenterology,"Improved, but requires monitoring",Atorvastatin 40mg,Take before bedtime,2 tablets daily
+P0001,Dinesh,Male,Dr. Sakshi,47,839,Pediatrics,Follow-up required in 2 weeks,Metformin 500mg,Take before bedtime,1 capsule before meals
+P0006,Abhishek,Male,Dr. Sameer,23,715,Gastroenterology,Needs further tests,Metformin 500mg,Avoid alcohol,1 tablet daily
+P0051,Arjun,Male,,79,4251,Psychiatry,"Stable condition, continue medication",Metformin 500mg,Take before bedtime,As prescribed
+P0097,Tarun,Male,Dr. Ravi,37,1873,Oncology,"Improved, but requires monitoring",Omeprazole 20mg,Do not skip doses,1 tablet every 8 hours
+P0084,Sandeep,Male,Dr. Kabir,71,2066,Orthopedics,Needs further tests,Omeprazole 20mg,Avoid alcohol,1 tablet every 8 hours
+P0037,Aryan,Male,Dr. Uma,18,4970,Dermatology,"Recovered well, no complications",Paracetamol 500mg,Avoid alcohol,1 tablet every 8 hours
+P0083,,Male,Dr. Lata,51,1655,Pediatrics,"Recovered well, no complications",Amoxicillin 500mg,Take with food,2 tablets daily
+P0025,Kabir,Male,Dr. Ojasvi,39,4282,Pediatrics,"Improved, but requires monitoring",Atorvastatin 40mg,Drink plenty of water,1 capsule before meals
+P0046,Riya,Female,,37,1938,Pediatrics,"Stable condition, continue medication",Paracetamol 500mg,Do not skip doses,1 tablet every 8 hours
+P0070,Jatin,Male,Dr. Ila,67,2780,General Medicine,"Recovered well, no complications",Omeprazole 20mg,Take with food,1 capsule before meals
+P0052,Uma,Female,Dr. Leena,69,3512,General Medicine,"Improved, but requires monitoring",Paracetamol 500mg,Take before bedtime,2 tablets daily
+P0092,Zoya,Female,Dr. Vivaan,56,2183,Neurology,Follow-up required in 2 weeks,Paracetamol 500mg,Do not skip doses,1 tablet daily
+P0042,Nisha,Female,Dr. Sanya,28,3538,General Medicine,"Improved, but requires monitoring",Paracetamol 500mg,Drink plenty of water,2 tablets daily
+P0011,Omkar,Male,Dr. Falguni,33,1282,Orthopedics,"Stable condition, continue medication",Metformin 500mg,Do not skip doses,As prescribed
+P0078,Meera,Female,Dr. Arjun,51,4323,Psychiatry,"Improved, but requires monitoring",Ibuprofen 400mg,Do not skip doses,As prescribed
+P0061,Sonali,Female,Dr. Ravi,51,,Gastroenterology,Needs further tests,Lisinopril 10mg,Take before bedtime,As prescribed
+P0058,Hemant,Male,Dr. Aditi,68,4697,Orthopedics,"Stable condition, continue medication",Metformin 500mg,Take before bedtime,1 tablet daily
+P0007,Veena,Female,Dr. Kavya,,3632,ENT,Follow-up required in 2 weeks,Aspirin 75mg,Avoid alcohol,1 tablet daily
+P0036,Jaya,Female,Dr. Leena,63,1353,ENT,"Recovered well, no complications",Paracetamol 500mg,Avoid alcohol,As prescribed
+P0085,Sameer,Male,Dr. Sakshi,54,2183,Psychiatry,"Recovered well, no complications",Lisinopril 10mg,Do not skip doses,2 tablets daily
+P0028,Sneha,Female,Dr. Yash,69,4364,Orthopedics,Follow-up required in 2 weeks,Paracetamol 500mg,Do not skip doses,1 tablet daily
+P0009,Sourabh,Male,Dr. Aditi,38,136,Psychiatry,Needs further tests,Metformin 500mg,Take with food,1 tablet every 8 hours
+P0087,Trisha,Female,Dr. Vivek,65,715,Psychiatry,"Recovered well, no complications",Amoxicillin 500mg,Avoid alcohol,1 capsule before meals
+P0050,Harsh,Male,Dr. Ojasvi,40,1198,Pediatrics,"Recovered well, no complications",Paracetamol 500mg,Avoid alcohol,2 tablets daily
+P0081,Lokesh,Male,Dr. Aditi,71,4970,Oncology,"Improved, but requires monitoring",Aspirin 75mg,Take with food,1 capsule before meals
+P0014,Naveen,Male,Dr. Arjun,26,,Neurology,Needs further tests,Ibuprofen 400mg,Do not skip doses,2 tablets daily
+P0056,Shivam,Male,Dr. Anand,46,1954,Psychiatry,Follow-up required in 2 weeks,Atorvastatin 40mg,Drink plenty of water,1 tablet every 8 hours
+P0096,Sachin,Male,Dr. Aditi,39,2092,Neurology,"Stable condition, continue medication",Omeprazole 20mg,Avoid alcohol,2 tablets daily
+P0019,Mitali,Female,Dr. Pranav,64,1904,Orthopedics,"Improved, but requires monitoring",Paracetamol 500mg,Take before bedtime,1 capsule before meals
+P0075,Varun,Male,Dr. Vaishali,55,2183,ENT,"Improved, but requires monitoring",Omeprazole 20mg,Take with food,1 tablet daily
+P0038,Mahima,Female,Dr. Kabir,52,4916,General Medicine,"Improved, but requires monitoring",Amoxicillin 500mg,Avoid alcohol,As prescribed
+P0034,Vikas,Male,Dr. Ravi,56,3605,Cardiology,"Recovered well, no complications",Lisinopril 10mg,Take before bedtime,1 tablet daily
+P0055,Bhavya,Female,Dr. Tanvi,30,4124,Oncology,"Recovered well, no complications",Ibuprofen 400mg,Take before bedtime,1 tablet every 8 hours
+P0040,Gauri,Female,Dr. Sakshi,47,839,Dermatology,"Improved, but requires monitoring",Lisinopril 10mg,Do not skip doses,As prescribed
+P0033,Piyush,Male,Dr. Sameer,23,2785,Dermatology,"Stable condition, continue medication",Aspirin 75mg,Drink plenty of water,2 tablets daily
+P0020,Esha,Female,Dr. Kavya,50,,Psychiatry,Follow-up required in 2 weeks,Amoxicillin 500mg,Drink plenty of water,1 tablet every 8 hours
+P0048,Deepak,Male,Dr. Kabir,52,1440,Neurology,"Improved, but requires monitoring",Aspirin 75mg,Avoid alcohol,1 tablet daily
+P0053,Vaishali,Female,Dr. Abhishek,,224,Cardiology,"Stable condition, continue medication",Amoxicillin 500mg,Do not skip doses,1 capsule before meals
+P0062,Diya,Female,Dr. Anand,38,282,Dermatology,Needs further tests,Atorvastatin 40mg,Do not skip doses,1 capsule before meals
+P0024,Rohan,Male,Dr. Hemant,20,4272,Orthopedics,Follow-up required in 2 weeks,Lisinopril 10mg,Take with food,1 capsule before meals
+P0082,Tanya,Female,Dr. Vivaan,61,1435,Neurology,Follow-up required in 2 weeks,Metformin 500mg,Take with food,As prescribed
+P0018,Chitra,Female,Dr. Aditi,37,1585,Dermatology,"Recovered well, no complications",Lisinopril 10mg,Take with food,2 tablets daily
+P0008,Kavya,Female,Dr. Kavya,79,1938,Pediatrics,"Stable condition, continue medication",Aspirin 75mg,Take before bedtime,1 tablet every 8 hours
+P0064,Suhas,Male,Dr. Sneha,51,3356,Gastroenterology,"Stable condition, continue medication",Amoxicillin 500mg,Drink plenty of water,1 tablet every 8 hours
+P0067,Damini,Female,Dr. Dev,69,4197,Oncology,Needs further tests,Atorvastatin 40mg,Avoid alcohol,1 tablet every 8 hours
+P0098,Isha,Female,Dr. Abhishek,50,136,Cardiology,Needs further tests,Ibuprofen 400mg,Drink plenty of water,As prescribed
+P0031,Sanya,Female,Dr. Vaishali,63,4697,Neurology,"Recovered well, no complications",Ibuprofen 400mg,Take before bedtime,1 capsule before meals
+P0063,Pallavi,Female,Dr. Pranav,71,1816,Gastroenterology,"Improved, but requires monitoring",Lisinopril 10mg,Take with food,2 tablets daily
+P0091,Aditya,Male,Dr. Vivek,28,910,Psychiatry,"Improved, but requires monitoring",Ibuprofen 400mg,Drink plenty of water,1 tablet daily
+P0072,Vivek,Male,Dr. Sanya,67,2090,ENT,Follow-up required in 2 weeks,Ibuprofen 400mg,Avoid alcohol,2 tablets daily
+P0065,Ishaan,Male,Dr. Sakshi,37,,Neurology,Follow-up required in 2 weeks,Paracetamol 500mg,Avoid alcohol,2 tablets daily
+P0054,Tanvi,Female,Dr. Uma,50,1875,Pediatrics,Needs further tests,Ibuprofen 400mg,Take before bedtime,2 tablets daily
+P0002,Manish,Male,Dr. Dinesh,,1542,Pediatrics,"Stable condition, continue medication",Amoxicillin 500mg,Take with food,1 capsule before meals
+P0039,Quasar,Female,Dr. Lata,48,1353,Psychiatry,"Stable condition, continue medication",Lisinopril 10mg,Take before bedtime,As prescribed
+P0023,Lata,Female,Dr. Pranav,36,1526,Neurology,Needs further tests,Atorvastatin 40mg,Take with food,As prescribed
+P0003,Rupali,Female,Dr. Leena,79,4885,General Medicine,"Improved, but requires monitoring",Paracetamol 500mg,Take before bedtime,As prescribed
+P0013,Vikram,Male,Dr. Alok,19,4272,Pediatrics,Needs further tests,Lisinopril 10mg,Drink plenty of water,As prescribed
+P0060,Aditi,Female,Dr. Sakshi,63,1282,General Medicine,Follow-up required in 2 weeks,Atorvastatin 40mg,Avoid alcohol,1 tablet daily
+P0041,Urvashi,Female,Dr. Ila,46,715,Orthopedics,"Improved, but requires monitoring",Omeprazole 20mg,Drink plenty of water,1 tablet daily
+P0089,Ojasvi,Female,,,527,Dermatology,"Improved, but requires monitoring",Metformin 500mg,Take before bedtime,1 capsule before meals
+P0044,Neeraj,Male,Dr. Yash,48,910,Oncology,"Recovered well, no complications",Paracetamol 500mg,Take before bedtime,As prescribed
+P0094,Garima,Female,Dr. Arjun,43,4364,Gastroenterology,"Recovered well, no complications",Paracetamol 500mg,Drink plenty of water,1 capsule before meals
+P0069,Bhaskar,Male,Dr. Pranav,19,1435,Dermatology,Follow-up required in 2 weeks,Atorvastatin 40mg,Take with food,As prescribed
