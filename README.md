@@ -1,4 +1,4 @@
-# Deciphering Medical Prescription using OCR and Analysis
+# Deciphering Medical Prescription using OCR and Analysis.
 
 ## Project Overview
 This project focuses on extracting, cleaning, and analyzing medical prescriptions using Optical Character Recognition (OCR) techniques. The goal is to transform scanned prescription images into structured data and derive meaningful insights through data analysis and visualization.
